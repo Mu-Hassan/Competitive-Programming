@@ -1,1 +1,1 @@
-# CompetitiveProgrammingArabicCompetitive_Programming
+# Competitive Programming
